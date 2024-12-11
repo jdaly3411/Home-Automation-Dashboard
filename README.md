@@ -17,7 +17,6 @@
 
 ### Features To Be Implemented
 - **Home Automation Dashboard**:
-  - Integrate with an Arduino over USB for device communication.
   - Arduino Control
 - **Authentication**:
   - Implement secure login/logout functionality for users.
